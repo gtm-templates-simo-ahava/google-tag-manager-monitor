@@ -1,10 +1,19 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "displayName": "Google Tag Manager Monitor",
   "description": "A template for setting up tag monitoring in Google Tag Manager.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
+  "categories": ["TAG_MANAGEMENT", "UTILITY"],
   "type": "TAG",
   "version": 1,
   "brand": {
