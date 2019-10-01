@@ -1,4 +1,8 @@
 homepage: "www.simoahava.com"
 versions:
+  # Latest version
+  - sha: f2ac6d0fd9bd6ba7869df4b5828b1d35ac7d864e
+    changeNotes: Update template metadata.
+  # Older versions
   - sha: b4b9603898bd98648bb8485a12eec6f95ae71e75
     changeNotes: Initial release.
