@@ -2,8 +2,10 @@ homepage: "https://www.simoahava.com/"
 documentation: "https://www.simoahava.com/analytics/google-tag-manager-monitor/"
 versions:
   # Latest version
+  - sha: b84470a61ada4c91f93eefa61de7c56963a0dd23
+    changeNotes: Fixed maxTags to parse as a number instead of string
+  # Older versions  
   - sha: 9c08e0dd2bb4a6e155f05d9ee19e11b0b6383525
     changeNotes: Update logo, brand name.
-  # Older versions
   - sha: b4b9603898bd98648bb8485a12eec6f95ae71e75
     changeNotes: Initial release.
